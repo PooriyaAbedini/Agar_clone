@@ -1,0 +1,20 @@
+{
+  "name": "agar.io-clone",
+  "version": "1.0.0",
+  "description": "socket.io practice ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Pooriya Abedini",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.3",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
